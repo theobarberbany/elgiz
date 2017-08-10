@@ -1,0 +1,21 @@
+{
+  "name": "elgiz",
+  "version": "0.1",
+  "description": "Web visualization for gemone assemblies",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgcam/elgiz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mgcam/elgiz/issues"
+  },
+  "homepage": "https://github.com/mg8/elgiz",
+  "main": "lib/demo.js",
+  "author": "@mgcam",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "papaparse": "4.3.*",
+    "mathjs": "3.6.*"
+  }
+}
+
