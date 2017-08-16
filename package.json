@@ -4,13 +4,19 @@
   "description": "Genome assembly visualization",
   "main": "lib/demo.js",
   "dependencies": {
+    "jquery": "^3.2.1",
     "papaparse": "^4.3.5"
   },
   "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-preset-es2015": "^6.24.1",
     "http-server": "^0.10.0"
   },
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "babel": "mkdir -p build && babel --presets es2015 lib/demo.js -o build/demo.bundle.js",
+    "testserver": "http-server -p 9999"
   },
   "repository": {
     "type": "git",
