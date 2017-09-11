@@ -1,0 +1,25 @@
+@HD	VN:1.0	SO:unsorted
+@SQ	SN:chr1	LN:248956422	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:6aef897c3d6ff0c78aff06ac189178dd
+@SQ	SN:chr2	LN:242193529	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:f98db672eb0993dcfdabafe2a882905c
+@SQ	SN:chr3	LN:198295559	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:76635a41ea913a405ded820447d067b0
+@SQ	SN:chr4	LN:190214555	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:3210fecf1eb92d5489da4346b3fddc6e
+@SQ	SN:chr5	LN:181538259	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:f7f05fb7ceea78cbc32ce652c540ff2d
+@SQ	SN:chr6	LN:170805979	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:5691468a67c7e7a7b5f2a3a683792c29
+@SQ	SN:chr7	LN:159345973	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:cc044cc2256a1141212660fb07b6171e
+@SQ	SN:chr8	LN:145138636	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:c67955b5f7815a9a1edfaa15893d3616
+@SQ	SN:chr9	LN:138394717	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:6c198acf68b5af7b9d676dfdd531b5de
+@SQ	SN:chr10	LN:133797422	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:c0eeee7acfdaf31b770a509bdaa6e51a
+@SQ	SN:chr11	LN:135086622	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:1511375dc2dd1b633af8cf439ae90cec
+@SQ	SN:chr12	LN:133275309	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:96e414eace405d8c27a6d35ba19df56f
+@SQ	SN:chr13	LN:114364328	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:a5437debe2ef9c9ef8f3ea2874ae1d82
+@SQ	SN:chr14	LN:107043718	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:acbd9552c059d9b403e75ed26c1ce5bc
+@SQ	SN:chr15	LN:101991189	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:f036bd11158407596ca6bf3581454706
+@SQ	SN:chr16	LN:90338345	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:db2d37c8b7d019caaf2dd64ba3a6f33a
+@SQ	SN:chr17	LN:83257441	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:f9a0fb01553adb183568e3eb9d8626db
+@SQ	SN:chr18	LN:80373285	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:11eeaa801f6b0e2e36a1138616b8ee9a
+@SQ	SN:chr19	LN:58617616	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:b0eba2c7bb5c953d1e06a508b5e487de
+@SQ	SN:chr20	LN:64444167	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:b18e6c531b0bd70e949a7fc20859cb01
+@SQ	SN:chr21	LN:46709983	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:eefe014d35decf90afde7b37e9954554
+@SQ	SN:chr22	LN:50818468	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:1e99fda391b161380436bb74db8a68ba
+@SQ	SN:chrX	LN:156040895	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:2b3a55ff7f58eb308420c8a9b11cac50
+@SQ	SN:chrY	LN:57227415	UR:file:/lustre/scratch117/sciops/team117/hpag/fg6/analysis/examples_genome_viewer/Human/ref.fasta	M5:447f54a94ef525e42ce58d3e0c48b3f8
